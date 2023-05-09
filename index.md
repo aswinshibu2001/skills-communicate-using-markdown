@@ -13,3 +13,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] study github
+- [x] create an account
+- [ ] beome a developer
